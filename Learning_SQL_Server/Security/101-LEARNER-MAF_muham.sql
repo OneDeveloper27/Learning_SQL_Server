@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [101-LEARNER-MAF\muham]
+    FROM WINDOWS;
+
